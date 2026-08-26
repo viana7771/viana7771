@@ -58,14 +58,13 @@ Atualmente estou aprofundando meus conhecimentos em **Python, análise de dados,
 
 **Python:** pathlib • shutil • OpenPyXL • Rich
 
+* 🔧 Boas práticas de programação e Git
+
 **Dados:** Pandas • NumPy • Matplotlib • Seaborn • Jupyter
 
 **Banco de Dados:** SQL • PostgreSQL • MySQL
 
-## **BI e produtividade:** Power BI • Excel
-
-
-* 🔧 Boas práticas de programação e Git
+**BI e produtividade:** Power BI • Excel
 
 ---
 
