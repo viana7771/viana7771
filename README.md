@@ -1,63 +1,81 @@
 # Olá, eu sou Kairê! 👋
 
-### Desenvolvedor em formação | Python | Dados | Automação
+### Python Developer | Data Analytics | Automation
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
-🐍 Focado em Python e automação de processos
-📊 Estudando Análise de Dados e ferramentas de BI
-🗄️ Desenvolvendo conhecimentos em SQL e bancos de dados
+🎓 Análise e Desenvolvimento de Sistemas
+🐍 Python para desenvolvimento e automação
+📊 Análise e visualização de dados
+🗄️ SQL e bancos de dados
 
 ---
 
-## 🚀 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou apaixonado por tecnologia e atualmente estou direcionando minha carreira para a área de **Dados e Automação**.
+Sou desenvolvedor com foco em **Python, Dados e Automação**.
 
-Tenho estudado Python, SQL, análise de dados e ferramentas de Business Intelligence, enquanto desenvolvo projetos práticos para transformar problemas do dia a dia em soluções automatizadas.
+Tenho interesse em transformar problemas do dia a dia em soluções práticas utilizando programação, buscando automatizar tarefas, organizar informações e facilitar processos.
 
-Gosto principalmente de entender um problema, pensar em uma solução e transformar essa ideia em código.
+Atualmente estou aprofundando meus conhecimentos em **Python, análise de dados, SQL e Power BI**, desenvolvendo projetos práticos para aplicar esses conhecimentos e construir meu portfólio.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
+### 🐍 Programação e Automação
+
 <div align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 
 </div>
 
-<br>
+**Python:** pathlib • shutil • OpenPyXL • Rich
 
-**Também estudo:** Power BI • Matplotlib • Seaborn • Jupyter • Excel • OpenPyXL
+### 📊 Dados
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+
+</div>
+
+**Também utilizo:** Matplotlib • Seaborn • Jupyter
+
+### 🗄️ Banco de Dados
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+
+</div>
+
+**Conhecimentos:** SQL • PostgreSQL • MySQL
+
+### 📈 Business Intelligence
+
+**Power BI** • Excel
 
 ---
 
 ## 📚 Atualmente estudando
 
-* 🐍 Python para automação e análise de dados
-* 📊 Análise e visualização de dados
+* 🐍 Python aplicado à automação e análise de dados
+* 📊 Análise exploratória e visualização de dados
 * 🗄️ SQL e bancos de dados
 * 📈 Power BI
-* ⚙️ Automação de tarefas com Python
+* ⚙️ Automação de processos
 * 🔧 Boas práticas de programação e Git
 
 ---
@@ -66,21 +84,23 @@ Gosto principalmente de entender um problema, pensar em uma solução e transfor
 
 ### 📁 Organizador de Downloads
 
-Automação desenvolvida em Python para organizar arquivos automaticamente de acordo com suas extensões.
+Automação desenvolvida em Python para resolver um problema do dia a dia: organizar automaticamente os arquivos da pasta de Downloads.
+
+O projeto identifica as extensões dos arquivos e os direciona para suas respectivas pastas, reduzindo uma tarefa manual e recorrente.
 
 **Tecnologias:** Python • pathlib • shutil • Rich
 
-🔗 [Ver projeto](https://github.com/viana7771/organizador-downloads)
+🔗 [Ver projeto](https://github.com/SEU_USUARIO/organizador-downloads)
 
 ---
 
-### 📊 Análise de Dados
+### 📊 Projetos de Análise de Dados
 
-Projetos desenvolvidos para praticar análise, tratamento e visualização de dados utilizando Python e suas principais bibliotecas.
+Projetos desenvolvidos para praticar análise, tratamento e visualização de dados, utilizando diferentes conjuntos de dados e ferramentas.
 
-**Tecnologias:** Python • Pandas • NumPy • Matplotlib
+**Tecnologias:** Python • Pandas • NumPy • Matplotlib • Seaborn
 
-🔗 [Ver meus repositórios](https://github.com/SEU_USUARIO?tab=repositories)
+🔗 [Ver meus projetos](https://github.com/SEU_USUARIO?tab=repositories)
 
 ---
 
@@ -98,18 +118,20 @@ Projetos desenvolvidos para praticar análise, tratamento e visualização de da
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
-## 📫 Contato
+## 📫 Vamos conversar?
 
 <div align="left">
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
-
-
