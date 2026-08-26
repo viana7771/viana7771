@@ -21,61 +21,50 @@ Atualmente estou aprofundando meus conhecimentos em **Python, análise de dados,
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 🐍 Programação e Automação
-
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<img width="12" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="Microsoft SQL Server" />
+<img width="12" />
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
+<img width="12" />
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
 
 </div>
+
+<br>
 
 **Python:** pathlib • shutil • OpenPyXL • Rich
 
-### 📊 Dados
+**Dados:** Pandas • NumPy • Matplotlib • Seaborn • Jupyter
 
-<div align="left">
+**Banco de Dados:** SQL • PostgreSQL • MySQL
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-<img width="12" />
+## **BI e produtividade:** Power BI • Excel
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
 
-</div>
-
-**Também utilizo:** Matplotlib • Seaborn • Jupyter
-
-### 🗄️ Banco de Dados
-
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-
-</div>
-
-**Conhecimentos:** SQL • PostgreSQL • MySQL
-
-### 📈 Business Intelligence
-
-**Power BI** • Excel
-
----
-
-## 📚 Atualmente estudando
-
-* 🐍 Python aplicado à automação e análise de dados
-* 📊 Análise exploratória e visualização de dados
-* 🗄️ SQL e bancos de dados
-* 📈 Power BI
-* ⚙️ Automação de processos
 * 🔧 Boas práticas de programação e Git
 
 ---
