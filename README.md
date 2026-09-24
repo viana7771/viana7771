@@ -21,22 +21,20 @@ Meu foco é transformar perguntas de negócio em análises reproduzíveis: explo
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" /></td>
-    <td><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" /></td>
-    <td><img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" />&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
 
 </div>
 
@@ -74,11 +72,11 @@ Estou construindo projetos práticos para demonstrar minha evolução em anális
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viana7771/viana7771/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viana7771/viana7771/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viana7771/viana7771/output/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viana7771/viana7771/output/github-contribution-grid-snake.svg">
 
-  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/viana7771/viana7771/output/dist/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/viana7771/viana7771/output/github-contribution-grid-snake.svg">
 
 </picture>
 
