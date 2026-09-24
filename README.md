@@ -1,6 +1,6 @@
 # Kairê Viana
 
-### Analista de Dados em formação | Python | SQL | Power BI
+### Analista de Dados | Python | SQL | Power BI
 
 Transformo dados brutos em análises claras para apoiar decisões melhores.
 
@@ -19,36 +19,26 @@ Meu foco é transformar perguntas de negócio em análises reproduzíveis: explo
 
 ## Tecnologias e ferramentas
 
-<div align="left">
+<div align="center">
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /><br /><strong>Python</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /><br /><strong>Pandas</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /><br /><strong>NumPy</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /><br /><strong>Jupyter</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /><br /><strong>PostgreSQL</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br /><strong>MySQL</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" /><br /><strong>SQL Server</strong></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" /><br /><strong>Excel</strong></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" /><br /><strong>Power BI</strong></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /><br /><strong>Git</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server" /></td>
+    <td><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" /></td>
+    <td><img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" /></td>
   </tr>
 </table>
 
 </div>
-
-**Análise de dados:** Pandas • NumPy • Matplotlib • Seaborn • Jupyter
-
-**Consultas e bancos:** SQL • PostgreSQL • MySQL • SQL Server
-
-**Visualização e BI:** Power BI • Excel
-
-**Python e automação:** pathlib • shutil • OpenPyXL • Rich
-
-**Boas práticas:** Git • GitHub • documentação • código organizado
 
 ---
 
